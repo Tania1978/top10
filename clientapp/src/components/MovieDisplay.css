@@ -1,0 +1,44 @@
+.txt {
+  color: white;
+}
+
+.movie_card {
+  position: relative;
+  bottom:100px;
+  display: block;
+  width: 90%;
+  margin: auto;
+  height: 700px;
+  margin: 100px auto;
+  transition: all 0.4s;
+}
+.movie_card:hover {
+  transform: scale(1.02);
+  transition: all 0.4s;
+}
+
+img {
+  position: relative;
+  left: 50px;
+  top: 50px;
+  width: 400px;
+  height: 600px;
+}
+
+.blur_back {
+  position: absolute;
+  top: 0;
+  z-index: 1;
+  height: 100%;
+  right: 0;
+  background-size: cover;
+  border-radius: 11px;
+}
+
+.allText {
+  position: relative;
+  width: 60%;
+  float: right;
+  top: 50px;
+  right: 50px;
+}

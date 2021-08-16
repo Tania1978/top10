@@ -1,0 +1,17 @@
+.moreBtnDiv {
+
+  width: 40%;
+  position:relative;
+  bottom: 500px;
+  left:500px;
+}
+
+.label{
+    color:rgb(245, 222, 20);
+    font-size: 30px;
+   
+}
+
+.searchFormDiv{
+  text-align: center;
+}

@@ -1,0 +1,34 @@
+.movie {
+  width: 100%;
+  height: 100%;
+}
+
+.image {
+  width: 300px;
+  height: 400px;
+}
+
+.card {
+  background-color: black;
+  width: 100% !important;
+  border-radius: 0rem !important;
+  height: 100%;
+}
+
+.cardText {
+  display: block;
+  position: relative;
+  left:25px;
+  top: 60px;
+  color: white;
+}
+
+.cardBody {
+  height: 200px;
+}
+
+.more {
+  position: relative;
+  left: 40px;
+  bottom: 20px;
+}

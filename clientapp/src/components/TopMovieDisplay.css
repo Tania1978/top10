@@ -1,0 +1,26 @@
+.display {
+  width: 80%;
+  margin: auto;
+  height: 300px;
+  color: white;
+  padding: 10px;
+  border-radius: 8px;
+}
+.cardImg {
+  width: 170px;
+  height: 200px;
+  border-radius: 8px;
+}
+
+.cardImgDiv {
+  position: relative;
+  bottom: 40px;
+  right: 20px;
+  width: 45%;
+  float: left;
+}
+
+.votes {
+  width: 45%;
+  float: right;
+}

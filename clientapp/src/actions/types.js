@@ -1,0 +1,15 @@
+export const FETCH_USERS = "FETCH_USERS";
+export const FETCH_USER = "FETCH_USER";
+export const UPDATE_USER = "UPDATE_USER";
+export const DELETE_USER = "DELETE_USER";
+export const SIGN_OUT = "SIGN_OUT";
+export const REGISTER = "REGISTER";
+export const LOGIN = "LOGIN";
+export const LOG_OUT = "LOG_OUT";
+export const VOTE_MOVIE_SUCCESS = "VOTE_MOVIE_SUCCESS";
+export const VOTE_MOVIE_ERROR = "VOTE_MOVIE_ERROR";
+export const GET_TOP_MOVIES = "GET_TOP_MOVIES";
+export const ADD_VOTE = "ADD_VOTE";
+export const ADD_VOTE_TO_USER = "ADD_VOTE_TO_USER";
+export const GET_ALL_APP_MOVIES = "GET_ALL_APP_MOVIES";
+export const SEARCH_MOVIES = "SEARCH_MOVIES";
